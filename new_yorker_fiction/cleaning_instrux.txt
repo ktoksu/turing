@@ -1,0 +1,21 @@
+
+CLEANING STEPS
+
+- Open HTML file in Word.
+
+- Delete all columns except for title, author and text.
+
+- Search and delete all extraneous closing text (translation credits will remain).
+
+- Search and delete (by hand) all beginning credits (for images) and end credits (for translation).
+
+- Open in Sublime.
+
+- Delete all opening code and closing code.
+
+- Search for keyboard apostrophe and delete code line that is found throughout.
+
+- Replace line return and 2 spaces preceding text with 1 space. (This will take a long time.)
+
+
+
