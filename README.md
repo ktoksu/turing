@@ -20,10 +20,4 @@ However, Domingos favors Markov logic networks in trying to create a "universal 
 
 
 
-## Tracking Heart Rate Variability
-
-I may also try to see which of the above methods would work best for tracking heart rate variability.
-
-
-
 
